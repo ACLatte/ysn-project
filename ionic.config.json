@@ -1,0 +1,8 @@
+{
+  "name": "YSN_project",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a3b18976"
+}
